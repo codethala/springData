@@ -1,0 +1,18 @@
+{
+	"model": 
+	[
+		{
+			"_id": "a",
+			"_class": "com.dan.sample.Model",
+			"aStringProp": "Test",
+			"anIntProp": 1
+		},
+
+		{
+			"_id": "b",
+			"_class": "com.dan.sample.Model",
+			"aStringProp": "anotherString",
+			"anIntProp": 2
+		}
+	]
+}
